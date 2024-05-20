@@ -1,3 +1,4 @@
+Website pictures, customer and administrators pages
 ![product info](https://github.com/Arpitsinghs/furniture-website/assets/145326193/c74b74ee-aca4-435d-9a84-0883922e0b43)
 ![login](https://github.com/Arpitsinghs/furniture-website/assets/145326193/73401662-0dc2-4f7d-80ed-17e839949d6a)
 ![admin update product](https://github.com/Arpitsinghs/furniture-website/assets/145326193/780ac1fb-ea31-429d-a1dd-108cd9b5cef6)
